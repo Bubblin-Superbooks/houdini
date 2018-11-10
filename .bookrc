@@ -1,10 +1,10 @@
 {
   "name": "houdini",
   "type": "blank",
-  "has_page_numbers": false,
+  "has_page_numbers": true,
   "mode": {
-    "HTML": "html",
-    "CSS": "css",
+    "HTML": "haml",
+    "CSS": "scss",
     "JS": "js",
     "HEAD": "html"
   }
